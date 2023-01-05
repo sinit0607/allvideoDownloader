@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "391208491196",
+    "firebase_url": "https://all-in-one-video-downloa-3df24.firebaseio.com",
+    "project_id": "all-in-one-video-downloa-3df24",
+    "storage_bucket": "all-in-one-video-downloa-3df24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391208491196:android:084c48a82ae9790ed9d8b9",
+        "android_client_info": {
+          "package_name": "com.infusiblecoder.all_video_downloader_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391208491196-o90mns1cpjmg1iuchhaiehn7o1neodhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infusiblecoder.all_video_downloader_flutter",
+            "certificate_hash": "9ebfbaf96b856bdba6dc80cb503ca3b3a06ccc22"
+          }
+        },
+        {
+          "client_id": "391208491196-5hoot9el3lmib17rvth8u2qnnv3vpk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGwslUyHSaFdhIfdFBME-2Rm41XxXRo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391208491196-5hoot9el3lmib17rvth8u2qnnv3vpk3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391208491196-q8m19foe6s24oq4ec5l9bl13jc3mi3d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infusiblecoder.allvideodownloaderflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391208491196:android:d29307b586a61db7d9d8b9",
+        "android_client_info": {
+          "package_name": "com.utech.allinonevideodownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391208491196-5hoot9el3lmib17rvth8u2qnnv3vpk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGwslUyHSaFdhIfdFBME-2Rm41XxXRo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391208491196-5hoot9el3lmib17rvth8u2qnnv3vpk3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391208491196-q8m19foe6s24oq4ec5l9bl13jc3mi3d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infusiblecoder.allvideodownloaderflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
